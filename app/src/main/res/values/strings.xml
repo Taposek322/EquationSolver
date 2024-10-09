@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EquationSolution</string>
+    <string name="solve_button">Solve</string>
+    <string name="two_solution">x1 = %1$,.3f; x2 = %2$,.3f</string>
+    <string name="one_solution">x1,2 = %1$,.3f</string>
+    <string name="no_solution">No solution</string>
+    <string name="empty_coefficient_error_message">Coefficient can`t be empty</string>
+</resources>
